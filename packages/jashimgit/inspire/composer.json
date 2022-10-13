@@ -1,0 +1,18 @@
+{
+    "name": "jashimgit/inspire",
+    "description": "simple laravel package for random quotes generator",
+    "authors": [
+        {
+            "name": "jashim",
+            "email": "jashim.ncn@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "jashimgit\\Inspire\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
